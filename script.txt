@@ -1,0 +1,3 @@
+1. Criação do projeto base
+
+composer create-project --prefer-dist laravel/lavel  todo-api
